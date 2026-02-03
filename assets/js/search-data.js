@@ -24,11 +24,11 @@ ninja.data = [{
             window.location.href = "/projects/";
           },
         },{id: "nav-join-us",
-          title: "Join Us",
+          title: "join us",
           description: "Join our research team and contribute to cutting-edge projects.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/join_us/";
+            window.location.href = "/join%20us/";
           },
         },{id: "nav-people",
           title: "people",
