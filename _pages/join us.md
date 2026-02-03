@@ -1,7 +1,7 @@
 ---
 layout: page
 title: join us
-permalink: /join_us/
+permalink: /join us/
 description: Join our research team and contribute to cutting-edge projects.
 nav: true
 nav_order: 4
