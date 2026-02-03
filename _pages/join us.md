@@ -7,11 +7,6 @@ nav: true
 nav_order: 2
 ---
 
-# join us
-
-Wlecom to you!
-There are the ways in contact with our lab. 
-
 ### 博士后研究员（示例）
 - 要求：计算机科学或相关专业博士学位
 - 研究方向：人工智能、机器学习
@@ -24,5 +19,5 @@ There are the ways in contact with our lab.
 
 ## Contact details
 - email：3999144685@qq.com
-- address：Zhixin Building, Shenzhen University， Shenzhen, China
+- address：Zhixin Building, Shenzhen University, Shenzhen, China
 
