@@ -1,6 +1,6 @@
 ---
 layout: profiles
-permalink: /join_us/
+permalink: /join us/
 title: join us
 description: Join our research team and contribute to cutting-edge projects.
 nav: true
