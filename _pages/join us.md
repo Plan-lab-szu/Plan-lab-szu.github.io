@@ -1,8 +1,8 @@
 ---
-layout: profiles
+layout: about
 permalink: /join us/
 title: join us
-description: members of the lab or group
+description: Join our research team and contribute to cutting-edge projects.
 nav: true
 nav_order: 7
 ---
