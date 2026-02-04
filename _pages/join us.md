@@ -1,8 +1,9 @@
 ---
 layout: about
-title: about
-permalink: /join us/
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+title: join us
+permalink: /joinus/
+subtitle: # <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+description: Join our research team and contribute to cutting-edge projects.
 
 profile:
   align: right
