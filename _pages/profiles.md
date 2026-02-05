@@ -17,6 +17,14 @@ profiles:
       <p>555 your office number</p>
       <p>123 your address street</p>
       <p>深圳大学粤海校区致信楼</p>
+  - align: right
+    image: prof_pic.jpg
+    content: 
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>555 your office number</p>
+      <p>123 your address street</p>
+      <p>深圳大学粤海校区致信楼</p>
   - align: left
     image: prof_pic.jpg
     content: about_einstein.md
