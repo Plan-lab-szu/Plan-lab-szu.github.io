@@ -281,8 +281,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Zhang, Wang, Wu, Yang, Liu, Tong]
+  first_name: [Shengli, Taotao, Xiaoxiao, Qing, Fang, Jingwen]
 
   style: apa
   locale: en
