@@ -15,22 +15,22 @@ nav_order: 2
 
 <div class="publications">
 
-<h2>Shengli Zhang</h2>
+<h2>Shengli Zhang <small><a href="/people/shengli-zhang/">View profile</a></small></h2>
 {% bibliography -f shengli %}
 
-<h2>Taotao Wang</h2>
+<h2>Taotao Wang <small><a href="/people/taotao-wang/">View profile</a></small></h2>
 {% bibliography -f taotao %}
 
-<h2>Xiaoxiao Wu</h2>
+<h2>Xiaoxiao Wu <small><a href="/people/xiaoxiao-wu/">View profile</a></small></h2>
 {% bibliography -f xiaoxiao %}
 
-<h2>Qing Yang</h2>
+<h2>Qing Yang <small><a href="/people/qing-yang/">View profile</a></small></h2>
 {% bibliography -f qing %}
 
-<h2>Fang Liu</h2>
+<h2>Fang Liu <small><a href="/people/fang-liu/">View profile</a></small></h2>
 {% bibliography -f fang %}
 
-<h2>Jingwen Tong</h2>
+<h2>Jingwen Tong <small><a href="/people/jingwen-tong/">View profile</a></small></h2>
 {% bibliography -f jingwen %}
 
 </div>
