@@ -1,7 +1,7 @@
 ---
 layout: page
 ---
-<div class="post">
+<div class="post{% if page.permalink == '/people/' %} people-profiles{% endif %}">
   <article>
     {% if page.profiles %}
       {% for profile in page.profiles %}

@@ -78,6 +78,33 @@ ul.task-list input[type="checkbox"] {
   margin-right: 1rem;
 }
 
+.people-profiles {
+  .profile {
+    .more-info {
+      text-align: center;
+      font-family: inherit;
+
+      p {
+        display: block;
+        line-height: 1.2;
+      }
+    }
+
+    figure {
+      margin-bottom: 0.35rem;
+    }
+
+    img {
+      width: 140px !important;
+      height: 90px !important;
+      object-fit: cover;
+      border-radius: 50% / 35% !important;
+      display: block;
+      margin: 0 auto;
+    }
+  }
+}
+
 @media (min-width: 576px) {
   .profile {
     width: 30%;
@@ -86,6 +113,12 @@ ul.task-list input[type="checkbox"] {
       p {
         display: block;
       }
+    }
+  }
+
+  .people-profiles {
+    .profile {
+      width: 22%;
     }
   }
 }
