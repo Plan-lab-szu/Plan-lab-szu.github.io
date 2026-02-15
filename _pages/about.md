@@ -3,6 +3,7 @@ layout: about
 title: PLAN Lab
 permalink: /
 subtitle: Personal Linked Agent Network Lab (PLAN Lab)
+title_logo: plan-logo.png
 
 profile:
   align: right
