@@ -97,8 +97,8 @@ ul.task-list input[type="checkbox"] {
     img {
       width: 110px !important;
       height: 150px !important;
-      object-fit: contain;
-      object-position: center;
+      object-fit: cover;
+      object-position: center 25%;
       border-radius: 45% / 50% !important;
       display: block;
       margin: 0 auto;
