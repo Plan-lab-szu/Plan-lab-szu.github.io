@@ -47,6 +47,7 @@ profiles:
       <p><strong>Qing Yang</strong></p>
       <p>Associate Professor</p>
       <p>yang.qing@szu.edu.cn</p>
+
   - align: left
     name: Fang Liu
     image: Fang Liu.jpg
